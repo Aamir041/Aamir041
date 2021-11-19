@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 -->
 <hr>
-<h1 align = "center">🔗 Connect with me on : <h1>
+<h1>🔗 Connect with me on : <h1>
 <div align = "center">
 <a target = "_blank" href="https://www.linkedin.com/in/aamir-saudagar-31422414a/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="" width="40"></a>
 <a target = "_blank" href="https://twitter.com/aamir0x1"><img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" alt="" width="40"></a>
