@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-
+<!--
 **Aamir041/Aamir041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 <p align = "center">
   <img src="https://raw.githubusercontent.com/Aamir041/Aamir041/main/headerimg2.png" alt="img-src">
