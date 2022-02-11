@@ -27,7 +27,7 @@ Here are some ideas to get you started: -->
 <h1>🔗 Connect with me on : <h1>
 <div align = "center">
 <a target = "_blank" href="https://www.linkedin.com/in/aamir-saudagar-31422414a/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="" width="40"></a>
-<a target = "_blank" href="https://twitter.com/aamir0x1"><img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" alt="" width="40"></a>
+<a target = "_blank" href="https://twitter.com/_axs0_"><img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" alt="" width="40"></a>
 <a target = "_blank" href="https://www.instagram.com/work_aamir/"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="" width="40"></a>
  </div> 
 </p>
