@@ -7,7 +7,7 @@
 Here are some ideas to get you started: -->
 
 <p align = "center">
-  <img src="https://raw.githubusercontent.com/Aamir041/Aamir041/main/headerimg2.png" alt="img-src">
+  <img src="https://raw.githubusercontent.com/Aamir041/Aamir041/main/headerimg3.JPG" alt="img-src">
   <br>
 </p>
 <hr>
