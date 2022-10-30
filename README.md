@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 👨‍🎓  Student at MIT-ADT University<!--- 🔭 I’m currently working on Voice Enbled Library Manager (V.E.L.M.) -->
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me: aamirsaudagar34@gmail.com
 <!--
 - 😄 Pronouns: ...
