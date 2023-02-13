@@ -37,5 +37,5 @@
 <!-- ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Aamir041&theme=dracula&no-frame=true&no-bg=false&margin-w=4" width="150%"/>
 <!-- Profile View -->
-<span align="right" width="100%"><img src="https://visitcount.itsvg.in/api?id=Aamir041&icon=0&color=1"/></span> -->
+<span align="right" width="100%"><img src="https://visitcount.itsvg.in/api?id=Aamir041&icon=0&color=1"/></span>
 
