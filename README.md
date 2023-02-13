@@ -18,7 +18,7 @@
 </div>
 
 ## 👨‍💻 Currently
-- **Learning MERN stack**
+- ### **Learning MERN stack**
 
 
 ## 💻 Tech Stack:
@@ -33,10 +33,9 @@
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aamir041&theme=radical&hide_border=false" width="70%"/> -->
 
-## 🏆 GitHub Trophies
+<!-- 🏆 GitHub Trophies is cringe -->
+<!-- ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Aamir041&theme=dracula&no-frame=true&no-bg=false&margin-w=4" width="150%"/>
-
-
 <!-- Profile View -->
-<span align="right" width="100%"><img src="https://visitcount.itsvg.in/api?id=Aamir041&icon=0&color=1"/></span>
+<span align="right" width="100%"><img src="https://visitcount.itsvg.in/api?id=Aamir041&icon=0&color=1"/></span> -->
 
