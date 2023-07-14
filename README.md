@@ -1,4 +1,4 @@
-### <img width="80px" src="https://user-images.githubusercontent.com/2780145/172943108-beb1fb36-3195-4b1a-8d14-cbba8d0400ea.gif" />Hi there! 
+### <img width="80px" src="https://user-images.githubusercontent.com/2780145/172943108-beb1fb36-3195-4b1a-8d14-cbba8d0400ea.gif" /> 
 
 <p align="right">  </p>
 
