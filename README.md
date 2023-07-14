@@ -9,7 +9,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Aamir041&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="383px"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir041&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir041&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="320px"/>
     </div>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aamir041&theme=radical&hide_border=false" width="70%"/> -->
