@@ -8,10 +8,6 @@
 
 ## Social Links
 <div align="center">
-    <a href="https://twitter.com/54ud_">
-        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="5%">
-    </a>
-    &nbsp;
     <a href="https://www.linkedin.com/in/aamir-saudagar-31422414a/">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="5%">
     </a>
