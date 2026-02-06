@@ -2,10 +2,6 @@
 
 <p align="right">  </p>
 
-<p align="center">
-    <img src="./assets/mygiffy.gif" width="100%"/>
-</p>
-
 ## Reach Me
 <div align="center">
     <a href="https://www.linkedin.com/in/aamir-saudagar-31422414a/">
